@@ -1,5 +1,5 @@
 # Useful Rust Links <!-- omit in toc --> 
-Open Source repository containing useful links for Rust Programming. If you find it useful please don't forget to support 💟 this effort by starring this repository.
+Open Source repository containing valuable links for Rust Programming. If you find it useful, please don't forget to support 💟 this effort by starring this repository.
 
 ## Contributing <!-- omit in toc -->  
 
