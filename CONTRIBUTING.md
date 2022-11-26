@@ -1,4 +1,6 @@
 - Add a new branch with the name **contributing**.
+- Please don't forget to **sign commits**. [Learn about signing commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)
+- Unsigned commits will not be merged.
 - Add one link per Pull Request.
 - Please make an individual commit for each suggestion in a separate pull request.
 - Search previous Pull Requests or Issues before making a new one, as yours may be duplicated.

@@ -3,7 +3,7 @@ Open Source repository containing valuable links for Rust Programming. If you fi
 
 ## Contributing <!-- omit in toc -->  
 
-Please refer [CONTRIBUTING](/CONTIBUTING.md), [CODE-OF-CONDUCT](/CODE_OF_CONDUCT.md) before you contribute.
+Please refer [CONTRIBUTING](/CONTRIBUTING.md), [CODE-OF-CONDUCT](/CODE_OF_CONDUCT.md) before you contribute.
 
 ### Prerequisite <!-- omit in toc -->
 
