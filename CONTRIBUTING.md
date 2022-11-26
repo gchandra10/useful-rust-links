@@ -1,10 +1,12 @@
 - Add a new branch with the name **contributing**.
+- Please don't forget to **sign commits**. [Learn about signing commits](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits)
+- Unsigned commits will not be merged.
 - Add one link per Pull Request.
 - Please make an individual commit for each suggestion in a separate pull request.
 - Search previous Pull Requests or Issues before making a new one, as yours may be duplicated.
 - Enter a meaningful pull request description.
 - Don't mention Rust in the description, as it's implied.
-- Check your spelling and grammar.
-- Remove any trailing whitespace.
-- New categories, or improvements to the existing categorisation, are always welcome.
+- Check your spelling and grammar. (Use Grammarly google chrome extension)
+- Avoid trailing whitespaces.
+- Feel free to add New categories, or improvements related to Rust programming.
 - **Add Your entry at the bottom** within the category.
