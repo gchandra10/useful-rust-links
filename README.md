@@ -24,6 +24,7 @@ If you are using VSCode, [Markdown All in One](https://marketplace.visualstudio.
   - [GUI](#gui)
   - [Blockchain](#blockchain)
 - [Rust Newsletters](#rust-newsletters)
+- [Rust Cheatsheets](#rust-cheatsheets)
 - [Rust Podcasts](#rust-podcasts)
 - [Rust Training Websites](#rust-training-websites)
 - [Rust Training Videos : English](#rust-training-videos--english)
@@ -110,6 +111,12 @@ If you are using VSCode, [Markdown All in One](https://marketplace.visualstudio.
 - [This Week in Rust](https://this-week-in-rust.org/)
 - [Rust Times](https://rusttimes.com/)
 - [Awesome Rust Weekly](https://rust.libhunt.com/newsletter)
+
+### Rust Cheatsheets
+
+- [Cheat rs](https://cheats.rs/)
+- [Rust Iterator Cheat Sheet](https://danielkeep.github.io/itercheat_baked.html)
+- [Rust Cheat Sheet](https://upsuper.github.io/rust-cheatsheet/)
 
 ### Rust Podcasts
 
